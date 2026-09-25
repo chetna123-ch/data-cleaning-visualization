@@ -1,0 +1,146 @@
+============================================================
+STEP 1: LOAD DATA
+============================================================
+Raw dataset shape: (525, 12)
+
+============================================================
+STEP 2: EXPLORE DATA
+============================================================
+
+Column data types:
+ OrderID              int64
+CustomerName           str
+Age                float64
+Gender                 str
+Region                 str
+ProductCategory        str
+Product                str
+Price                  str
+Quantity           float64
+OrderDate              str
+PaymentMethod          str
+Rating             float64
+dtype: object
+
+First 5 rows:
+    OrderID CustomerName   Age  Gender     Region ProductCategory  \
+0     1324  Karan Desai  57.0  FEMALE      south           Books   
+1     1087   Aarav Iyer  20.0  Female       East       Furniture   
+2     1072   Kabir Nair  44.0   Other    South       Furniture     
+3     1473  Aarav Singh  44.0  Female      North         Grocery   
+4     1100  Karan Singh  34.0    Male       EAST         Grocery   
+
+         Product     Price  Quantity   OrderDate     PaymentMethod  Rating  
+0  Fiction Novel    461.83       1.0  20/12/2024        Debit Card     3.0  
+1   Office Chair  10917.93       1.0  2024-06-11             UPI       4.0  
+2      Bed Frame  11100.18       3.0  2024-01-02  Cash on Delivery     4.0  
+3  Green Tea Box    663.79       2.0  2024-04-07        Debit Card     5.0  
+4       Rice 5kg    249.64       3.0  04/08/2024  Cash on Delivery     4.0  
+
+Numeric summary:
+            OrderID         Age    Quantity      Rating
+count   525.000000  499.000000  515.000000  474.000000
+mean   1251.457143   37.068136    1.425243    3.898734
+std     145.694561   47.049740    0.839065    1.136683
+min    1001.000000   -5.000000   -2.000000   -1.000000
+25%    1125.000000   25.000000    1.000000    3.000000
+50%    1251.000000   34.000000    1.000000    4.000000
+75%    1378.000000   42.000000    2.000000    5.000000
+max    1500.000000  999.000000    4.000000    6.000000
+
+============================================================
+STEP 3: MISSING VALUES (before cleaning)
+============================================================
+Age              26
+Gender           16
+Region           16
+Price            20
+Quantity         10
+OrderDate        16
+PaymentMethod    20
+Rating           51
+dtype: int64
+
+============================================================
+STEP 4: DUPLICATES
+============================================================
+Exact duplicate rows found: 25
+Shape after removing duplicates: (500, 12)
+
+============================================================
+STEP 5: FIX INCONSISTENT CATEGORICAL VALUES
+============================================================
+Standardised Gender, Region, ProductCategory, PaymentMethod values.
+Gender values now: ['Female', 'Male', 'Other']
+Region values now: ['East', 'North', 'South', 'West']
+ProductCategory values now: ['Books', 'Clothing', 'Electronics', 'Furniture', 'Grocery']
+PaymentMethod values now: ['Cash on Delivery', 'Credit Card', 'Debit Card', 'Net Banking', 'UPI']
+
+============================================================
+STEP 6: FIX DATA TYPES
+============================================================
+Converted Price to numeric (float).
+Marked 6 invalid (zero/negative) Quantity values as missing.
+Parsed OrderDate (3 mixed formats) into a proper datetime column.
+
+============================================================
+STEP 7: FIX IMPOSSIBLE VALUES
+============================================================
+Marked 33 impossible Age values (e.g. -5, 0, 150, 999) as missing.
+Marked 55 out-of-range Rating values (e.g. 0, 6, -1) as missing.
+
+============================================================
+STEP 8: HANDLE MISSING VALUES
+============================================================
+Dropped 15 rows with a missing OrderDate.
+Filled 30 missing 'Age' values with median = 34.0
+Filled 15 missing 'Quantity' values with median = 1.0
+Filled 52 missing 'Rating' values with median = 4.0
+Filled 20 missing 'Price' values with each category's median price.
+Filled 14 missing 'Gender' values with mode = 'Female'
+Filled 15 missing 'Region' values with mode = 'South'
+Filled 18 missing 'PaymentMethod' values with mode = 'UPI'
+
+Remaining missing values after cleaning: 0
+
+============================================================
+STEP 9: OUTLIER DETECTION (IQR method) ON PRICE, PER CATEGORY
+============================================================
+Books        -> valid range [ -123.66,  1207.60]  outliers: 1
+Clothing     -> valid range [-1322.57,  5102.07]  outliers: 1
+Electronics  -> valid range [-26290.03, 68444.12]  outliers: 1
+Furniture    -> valid range [-12382.62, 37301.29]  outliers: 1
+Grocery      -> valid range [ -323.84,  1516.78]  outliers: 2
+
+Total Price outliers detected & capped: 6
+
+============================================================
+STEP 10: FINAL TYPES & DERIVED COLUMN
+============================================================
+Added 'Revenue' (Price x Quantity) and 'OrderMonth' columns.
+
+Final dtypes:
+ OrderID                     int64
+CustomerName                  str
+Age                         int64
+Gender                        str
+Region                        str
+ProductCategory               str
+Product                       str
+Price                     float64
+Quantity                    int64
+OrderDate          datetime64[us]
+PaymentMethod                 str
+Rating                      int64
+Revenue                   float64
+OrderMonth                    str
+dtype: object
+
+============================================================
+STEP 11: FINAL CHECKS
+============================================================
+Final shape: (485, 14)
+Remaining duplicates: 0
+Remaining missing values: 0
+
+Saved cleaned dataset to cleaned_dataset.csv

@@ -1,0 +1,526 @@
+OrderID,CustomerName,Age,Gender,Region,ProductCategory,Product,Price,Quantity,OrderDate,PaymentMethod,Rating
+1324,Karan Desai,57.0,FEMALE,south,Books,Fiction Novel,461.83,1,20/12/2024,Debit Card,3.0
+1087,Aarav Iyer,20.0,Female,East,Furniture,Office Chair,10917.93,1,2024-06-11,  UPI  ,4.0
+1072,Kabir Nair,44.0,Other,  South  ,  Furniture  ,Bed Frame,11100.18,3,2024-01-02,Cash on Delivery,4.0
+1473,Aarav Singh,44.0,Female,North,Grocery,Green Tea Box,663.79,2,2024-04-07,Debit Card,5.0
+1100,Karan Singh,34.0,Male,EAST,Grocery,Rice 5kg,249.64,3,04/08/2024,Cash on Delivery,4.0
+1261,Priya Bhatt,27.0,Male,East,Books,Biography,705.68,1,"Apr 10, 2024",Debit Card,4.0
+1272,Riya Desai,20.0,Male,North,Electronics,Laptop,37509.41,1,14/07/2024,UPI,
+1246,Aditya Chauhan,29.0,Male,East,Grocery,Rice 5kg,738.09,1,2024-09-30,Debit Card,4.0
+1369,Karan Singh,32.0,Female,East,Electronics,Wireless Earbuds,11313.96,4,07/01/2024,Cash on Delivery,
+1163,Rahul Chauhan,45.0,Other,north,Grocery,Olive Oil 1L,590.43,1,2024-04-16,Credit Card,3.0
+1143,Simran Iyer,36.0,M,East,Electronics,Laptop,2828.25,2,"Oct 21, 2024",UPI,4.0
+1238,Neha Mehta,,Male,West,Electronics,Bluetooth Speaker,38916.53,1,,UPI,4.0
+1322,Pooja Sharma,40.0,Female,South,Furniture,Sofa Set,5384.19,1,"May 30, 2024",Cash on Delivery,4.0
+1051,Ananya Verma,16.0,Female,  North  ,Furniture,Bookshelf,17906.8,2,"Sep 10, 2024",net banking,5.0
+1277,Ananya Desai,42.0,Female,South,Clothing,Sweater,,2,"Jan 04, 2024",  Net Banking  ,4.0
+1011,Neha Joshi,36.0,Female,West,Clothing,Jeans,,1,25/08/2024,NET BANKING,3.0
+1374,Sara Iyer,30.0,Female,South,Grocery,Rice 5kg,106.57,1,06/12/2024,Debit Card,5.0
+1049,Myra Singh,29.0,  Other  ,South,  Grocery  ,Green Tea Box,182.05,1,13/01/2024,UPI,5.0
+1297,Aarav Malhotra,50.0,Female,north,Books,Fiction Novel,383.99,1,"Mar 19, 2024",UPI,5.0
+1047,Aarav Nair,38.0,Female,South,Books,Self-Help Book,501.5,2,08/11/2024,Credit Card,4.0
+1422,Ananya Malhotra,32.0,Female,North,Grocery,Green Tea Box,902.97,1,2024-06-03,  Cash on Delivery  ,3.0
+1330,Aditya Patel,35.0,O,West,ELECTRONICS,Bluetooth Speaker,20820.51,1,09/08/2024,Net Banking,4.0
+1313,Rohan Singh,33.0,F,East,Clothing,Jeans,$3131.77,1,2024-04-01,Debit Card,4.0
+1248,Simran Mehta,,FEMALE,east,Grocery,Almonds 250g,603.77,1,2024-07-03,Cash on Delivery,2.0
+1155,Rahul Nair,33.0,Female,West,  Electronics  ,Smartphone,"9,149.24",1,"May 21, 2024",Net Banking,
+1054,Saanvi Reddy,21.0,FEMALE,East,Electronics,Bluetooth Speaker,$3479.58,2,24/01/2024,,5.0
+1347,Isha Kapoor,41.0,Female,south,Books,Self-Help Book,164.36,1,11/05/2024,Cash on Delivery,5.0
+1379,Riya Iyer,46.0,FEMALE,North,Clothing,T-Shirt,2538.76,1,"Aug 08, 2024",UPI,5.0
+1007,Neha Desai,40.0,,North,Furniture,Office Chair,24087.54,1,11/02/2024,cash on delivery,
+1264,Neha Verma,49.0,male,South,Furniture,Bookshelf,16406.98,4,21/12/2024,,5.0
+1480,Saanvi Sharma,36.0,F,NORTH,Grocery,Coffee Beans 500g,$458.24,1,17/07/2024,Cash on Delivery,5.0
+1031,Neha Patel,28.0,Male,South,Grocery,Green Tea Box,458.64,4,"Dec 16, 2024",Net Banking,
+1491,Manav Mehta,16.0,Female,South,Clothing,Jacket,1067.94,1,2024-03-23,Cash on Delivery,
+1211,Aarav Iyer,20.0,male,East,Clothing,Jeans,1731.78,1,08/08/2024,Debit Card,3.0
+1447,Neha Sharma,51.0,Male,south,Books,Self-Help Book,830.28,1,2024-12-09,,4.0
+1213,Saanvi Mehta,200.0,Female,East,Electronics,Bluetooth Speaker,"44,300.84",1,10/10/2024,UPI,3.0
+1387,Vivaan Singh,29.0,female,East,Grocery,Green Tea Box,1097.88,1,"Feb 15, 2024",UPI,3.0
+1157,Saanvi Bhatt,44.0,Female,SOUTH,Clothing,Jacket,2797.46,1,"Aug 30, 2024",UPI,4.0
+1045,Kavya Gupta,16.0,Female,South,Books,Self-Help Book,,1,23/11/2024,CASH ON DELIVERY,3.0
+1460,Sara Iyer,39.0,Female,West,Grocery,Green Tea Box,$395.35,1,2024-08-05,Credit Card,4.0
+1472,Vivaan Mehta,16.0,Male,West,Books,Comic Book,840.52,1,04/07/2024,credit card,4.0
+1456,Riya Malhotra,24.0,Male,North,Books,Comic Book,164.21,2,"Sep 13, 2024",UPI,1.0
+1101,Neha Kapoor,45.0,Female,EAST,Books,Fiction Novel,644.09,1,"Dec 31, 2024",UPI,5.0
+1142,Saanvi Sharma,16.0,Male,East,Clothing,T-Shirt,"1,999.27",3,02/09/2024,UPI,4.0
+1236,Aditya Joshi,45.0,Female,West,Grocery,Almonds 250g,1092.6,,"Sep 25, 2024",Debit Card,
+1333,Aditya Reddy,47.0,Male,North,Clothing,Sneakers,748.18,2,"Aug 03, 2024",Cash on Delivery,4.0
+1008,Aditya Sharma,42.0,Male,,Electronics,Wireless Earbuds,"44,423.01",2,2024-06-12,UPI,3.0
+1212,Arjun Malhotra,37.0,Female,SOUTH,Books,Biography,765.28,1,13/01/2024,UPI,5.0
+1050,Saanvi Mehta,28.0,Female,West,Furniture,Bed Frame,9388.01,1,"Jan 29, 2024",Debit Card,3.0
+1041,Kavya Joshi,44.0,,South,Books,Biography,471.75,1,"Dec 08, 2024",cash on delivery,5.0
+1176,Diya Sharma,32.0,Female,North,Books,Fiction Novel,392.63,2,2024-06-09,debit card,2.0
+1065,Priya Bhatt,25.0,Female,WEST,Electronics,Wireless Earbuds,10302.92,2,"Apr 19, 2024",Debit Card,5.0
+1482,Rohan Iyer,-5.0,Male,East,Electronics,Laptop,40080.31,1,25/07/2024,Debit Card,4.0
+1126,Kabir Joshi,38.0,  Male  ,West,Electronics,Smartwatch,11891.01,1,10/12/2024,Net Banking,3.0
+1383,Neha Reddy,24.0,Female,SOUTH,Books,Cookbook,736.13,1,"Jan 27, 2024",CREDIT CARD,4.0
+1149,Rohan Kapoor,16.0,Male,South,Books,Cookbook,441.42,1,2024-04-20,UPI,4.0
+1494,Aditya Singh,24.0,FEMALE,EAST,Clothing,Jacket,2120.23,2,2024-02-25,UPI,4.0
+1293,Riya Sharma,30.0,Female,West,Furniture,Sofa Set,14248.07,1,2024-09-11,UPI,3.0
+1282,Aditya Chauhan,40.0,female,west,Grocery,Almonds 250g,343.51,1,2024-06-04,UPI,3.0
+1033,Ishaan Bhatt,16.0,Male,North,Books,Fiction Novel,666.37,1,2024-07-08,Net Banking,-1.0
+1259,Sara Sharma,26.0,Female,West,Furniture,Sofa Set,"23,044.60",1,27/12/2024,  Debit Card  ,5.0
+1366,Aarav Desai,42.0,Male,South,Furniture,Office Chair,21220.74,1,20/05/2024,Credit Card,4.0
+1223,Kabir Verma,16.0,Male,East,Books,Biography,222.4,1,"Mar 09, 2024",credit card,1.0
+1195,Simran Sharma,46.0,MALE,West,BOOKS,Biography,$738.67,1,2024-05-26,  Credit Card  ,4.0
+1396,Kabir Iyer,18.0,MALE,South,Clothing,Sneakers,1464.52,1,,UPI,4.0
+1476,Pooja Kapoor,29.0,,South,Grocery,Olive Oil 1L,688.0,1,2024-03-11,Debit Card,4.0
+1201,Simran Verma,22.0,male,North,Furniture,Bookshelf,7976.89,,17/04/2024,Net Banking,5.0
+1462,Isha Verma,35.0,Female,south,Grocery,Olive Oil 1L,700.06,3,2024-01-07,,3.0
+1116,Myra Kapoor,35.0,female,South,Furniture,Bookshelf,,1,24/01/2024,Credit Card,1.0
+1492,Neha Joshi,29.0,female,west,Electronics,Bluetooth Speaker,15907.57,3,2024-07-24,UPI,2.0
+1475,Priya Iyer,200.0,Male,North,Clothing,Jeans,906.79,2,20/03/2024,UPI,5.0
+1363,Aditi Iyer,23.0,,  East  ,Clothing,Jacket,427.23,1,08/07/2024,Net Banking,4.0
+1301,Saanvi Nair,34.0,Male,South,Furniture,Bed Frame,5892.49,1,30/11/2024,Credit Card,4.0
+1094,Ananya Kapoor,16.0,Female,north,Books,Cookbook,766.94,1,02/06/2024,Debit Card,4.0
+1114,Kabir Joshi,26.0,female,South,  Electronics  ,Smartphone,22785.94,1,20/12/2024,UPI,4.0
+1419,Karan Singh,20.0,Male,West,Grocery,Coffee Beans 500g,903.0,1,13/02/2024,Net Banking,5.0
+1181,Arjun Gupta,48.0,Male,West,Books,Fiction Novel,$709.66,1,16/08/2024,Net Banking,4.0
+1032,Saanvi Kapoor,44.0,M,WEST,Furniture,Sofa Set,24284.12,2,"Dec 12, 2024",UPI,4.0
+1172,Priya Desai,23.0,Female,South,Clothing,Sneakers,$1466.72,1,"Sep 24, 2024",Debit Card,3.0
+1187,Neha Gupta,48.0,Female,North,Books,Biography,190.39,1,"Aug 01, 2024",Debit Card,2.0
+1407,Aarav Desai,16.0,F,North,Clothing,T-Shirt,2483.79,1,"Oct 23, 2024",Debit Card,5.0
+1058,Isha Reddy,,Male,west,Furniture,Study Table,21765.55,3,06/12/2024,Credit Card,4.0
+1192,Yash Nair,42.0,Female,WEST,BOOKS,Self-Help Book,426.23,1,2024-08-18,UPI,3.0
+1402,Ishaan Gupta,39.0,other,North,  Grocery  ,Almonds 250g,189.31,1,2024-04-05,Debit Card,4.0
+1300,Karan Verma,38.0,Female,NORTH,Furniture,Bed Frame,8316.07,2,"Mar 24, 2024",UPI,5.0
+1329,Simran Mehta,34.0,Female,West,Books,Fiction Novel,752.65,1,"Dec 01, 2024",  Credit Card  ,5.0
+1004,Yash Verma,38.0,Other,South,Grocery,Almonds 250g,595.0,1,12/12/2024,Debit Card,4.0
+1165,Simran Verma,62.0,Female,North,Furniture,Office Chair,21287.78,1,08/02/2024,Net Banking,5.0
+1104,Aarav Desai,27.0,Male,East,Books,Cookbook,$404.91,2,,Credit Card,
+1317,Manav Kapoor,46.0,Male,South,Grocery,Green Tea Box,,1,13/05/2024,Net Banking,3.0
+1415,Saanvi Mehta,42.0,Male,west,grocery,Rice 5kg,$114.01,1,2024-10-18,Net Banking,6.0
+1189,Aarav Gupta,47.0,Male,South,GROCERY,Almonds 250g,202.23,1,2024-01-04,  Credit Card  ,5.0
+1310,Diya Desai,31.0,Male,East,Electronics,Smartphone,"1,365.09",1,"Sep 28, 2024",Net Banking,5.0
+1085,Karan Joshi,31.0,Other,North,Books,Cookbook,624.20,1,"Aug 03, 2024",Credit Card,4.0
+1215,Isha Kapoor,19.0,Female,West,Clothing,Jacket,,1,"Oct 04, 2024",Cash on Delivery,4.0
+1336,Aarav Malhotra,18.0,Female,North,Clothing,Jeans,3367.15,1,,UPI,5.0
+1103,Vivaan Patel,34.0,F,South,Books,Self-Help Book,708.8,1,28/10/2024,UPI,4.0
+1119,Pooja Sharma,44.0,Female,West,Furniture,Bed Frame,5718.19,1,13/01/2024,UPI,3.0
+1092,Rohan Iyer,18.0,Female,North,Books,Biography,314.63,4,29/02/2024,Debit Card,4.0
+1494,Aditya Singh,24.0,FEMALE,EAST,Clothing,Jacket,2120.23,2,2024-02-25,UPI,4.0
+1029,Rahul Bhatt,33.0,FEMALE,East,FURNITURE,Sofa Set,6065.44,1,"Oct 15, 2024",Cash on Delivery,4.0
+1052,Isha Sharma,39.0,FEMALE,South,  Grocery  ,Almonds 250g,774.37,1,2024-04-29,UPI,1.0
+1112,Saanvi Joshi,26.0,Female,South,Grocery,Green Tea Box,623.82,1,"Jan 26, 2024",Credit Card,4.0
+1421,Aarav Patel,39.0,Male,South,Grocery,Green Tea Box,621.05,1,08/08/2024,Cash on Delivery,4.0
+1481,Arjun Sharma,32.0,Male,West,Grocery,Rice 5kg,$370.9,2,"Mar 15, 2024",Cash on Delivery,5.0
+1137,Vivaan Iyer,,Female,West,Furniture,Bookshelf,16139.71,1,2024-11-30,Debit Card,3.0
+1488,Ishaan Desai,39.0,  Female  ,South,Electronics,Laptop,32357.0,1,2024-04-24,Debit Card,4.0
+1270,Ishaan Reddy,200.0,Male,East,Electronics,Smartwatch,43944.58,1,14/05/2024,Credit Card,2.0
+1365,Aarav Mehta,20.0,Male,West,Books,Comic Book,184.09,1,"Jun 29, 2024",Net Banking,2.0
+1217,Neha Iyer,29.0,FEMALE,South,Electronics,Bluetooth Speaker,36472.42,1,2024-09-05,Debit Card,4.0
+1488,Ishaan Desai,39.0,  Female  ,South,Electronics,Laptop,32357.0,1,2024-04-24,Debit Card,4.0
+1073,Diya Mehta,27.0,Male,North,Furniture,Sofa Set,,1,03/03/2024,UPI,5.0
+1479,Rohan Singh,49.0,Female,South,Furniture,Sofa Set,"18,829.13",1,26/07/2024,CREDIT CARD,
+1209,Arjun Singh,23.0,Female,South,Grocery,Green Tea Box,692.11,1,"Nov 03, 2024",UPI,5.0
+1168,Riya Bhatt,28.0,,South,Clothing,Sweater,1517.38,2,"Jan 15, 2024",UPI,5.0
+1395,Arjun Bhatt,30.0,Female,EAST,ELECTRONICS,Smartphone,41784.25,1,30/12/2024,Debit Card,5.0
+1486,Aarav Desai,28.0,F,,Books,Self-Help Book,487.71,1,2024-04-15,Debit Card,5.0
+1175,Isha Iyer,34.0,Male,East,Books,Comic Book,,1,10/11/2024,Net Banking,5.0
+1003,Aditya Reddy,22.0,Male,South,Furniture,Office Chair,$8343.88,1,2024-09-01,UPI,4.0
+1200,Myra Malhotra,34.0,Female,North,Electronics,Smartwatch,$6778.51,1,2024-12-30,Cash on Delivery,1.0
+1174,Pooja Malhotra,28.0,M,North,Furniture,Study Table,4571.69,2,2024-04-02,UPI,4.0
+1398,Aditya Bhatt,28.0,Female,  North  ,Furniture,Sofa Set,3462.84,1,20/10/2024,Cash on Delivery,4.0
+1156,Isha Sharma,44.0,Female,South,Books,Biography,321.06,1,"Mar 13, 2024",Credit Card,5.0
+1445,Aditya Verma,46.0,Female,West,Grocery,Olive Oil 1L,991.33,1,2024-02-07,  Net Banking  ,3.0
+1203,Karan Patel,41.0,OTHER,north,Books,Self-Help Book,770.9,1,"Nov 01, 2024",UPI,5.0
+1127,Ananya Mehta,32.0,Female,West,Books,Fiction Novel,158.72,1,,  UPI  ,
+1477,Isha Joshi,23.0,Male,East,Electronics,Smartwatch,$44653.96,1,21/01/2024,UPI,1.0
+1321,Rahul Desai,46.0,Female,North,Grocery,Rice 5kg,1044.56,2,2024-06-14,Credit Card,3.0
+1180,Saanvi Singh,30.0,F,East,Grocery,Rice 5kg,774.94,1,"Mar 28, 2024",Net Banking,
+1439,Rohan Singh,42.0,Female,West,Books,Fiction Novel,838.16,3,2024-07-27,  Credit Card  ,4.0
+1081,Saanvi Reddy,18.0,Female,South,Clothing,T-Shirt,2143.7,2,"Oct 29, 2024",UPI,4.0
+1267,Myra Reddy,64.0,MALE,North,  Furniture  ,Sofa Set,17531.56,1,"Feb 24, 2024",Credit Card,5.0
+1292,Aditi Joshi,22.0,Male,South,Furniture,Office Chair,$21438.0,1,"Jul 25, 2024",  Net Banking  ,5.0
+1153,Vivaan Sharma,23.0,Female,West,Books,Biography,342.58,-2,2024-05-26,Debit Card,4.0
+1064,Myra Iyer,32.0,  Male  ,West,Furniture,Sofa Set,21879.55,1,2024-01-29,Credit Card,5.0
+1062,Isha Nair,32.0,Male,East,Grocery,Almonds 250g,101.86,2,"Oct 30, 2024",Net Banking,5.0
+1266,Ananya Chauhan,38.0,male,West,Electronics,Smartwatch,"30,823.46",1,29/01/2024,Cash on Delivery,5.0
+1334,Pooja Singh,53.0,Female,West,Clothing,Sneakers,3028.12,1,"Sep 24, 2024",Debit Card,4.0
+1412,Kavya Joshi,16.0,Female,  West  ,Books,Biography,604.11,1,31/05/2024,Debit Card,
+1495,Pooja Kapoor,51.0,female,South,Furniture,Bed Frame,23613.32,2,"Sep 23, 2024",Credit Card,2.0
+1082,Neha Mehta,57.0,Female,East,Clothing,Sneakers,698.05,3,"May 29, 2024",  UPI  ,4.0
+1009,Pooja Joshi,42.0,MALE,North,  Grocery  ,Almonds 250g,1118.86,2,2024-12-26,Net Banking,5.0
+1413,Ishaan Malhotra,49.0,Female,West,Grocery,Almonds 250g,827.68,1,"May 22, 2024",Credit Card,5.0
+1289,Manav Iyer,40.0,Female,West,Books,Fiction Novel,457.06,1,17/10/2024,Debit Card,5.0
+1207,Yash Bhatt,16.0,FEMALE,west,Furniture,Bed Frame,9865.37,2,"Aug 20, 2024",Cash on Delivery,4.0
+1263,Riya Reddy,46.0,Female,North,Grocery,Rice 5kg,873.95,4,"Apr 04, 2024",  Cash on Delivery  ,5.0
+1097,Simran Joshi,41.0,  Female  ,South,Grocery,Coffee Beans 500g,1144.19,1,"Aug 15, 2024",Cash on Delivery,4.0
+1086,Priya Verma,21.0,Female,East,Grocery,Almonds 250g,787.1,1,"Jun 24, 2024",Debit Card,3.0
+1416,Simran Chauhan,16.0,Other,East,Books,Fiction Novel,438.03,1,2024-05-09,Credit Card,4.0
+1349,Neha Singh,,Female,South,Furniture,Sofa Set,11448.38,2,15/02/2024,UPI,3.0
+1468,Vivaan Singh,16.0,F,west,Clothing,Jeans,450.08,4,2024-12-27,UPI,4.0
+1122,Sara Singh,34.0,FEMALE,West,Books,Comic Book,373.78,2,03/12/2024,,3.0
+1432,Sara Nair,22.0,Female,north,Furniture,Bookshelf,104921.91,1,17/08/2024,Debit Card,4.0
+1038,Aditya Iyer,42.0,male,West,Electronics,Wireless Earbuds,$29664.98,1,2024-08-30,Debit Card,1.0
+1367,Manav Sharma,37.0,Male,East,electronics,Wireless Earbuds,9321.31,1,2024-12-17,UPI,
+1323,Kabir Joshi,48.0,M,  East  ,Electronics,Laptop,33225.94,1,"Jun 01, 2024",UPI,4.0
+1138,Ananya Sharma,44.0,Male,North,books,Comic Book,201.85,1,2024-08-19,Credit Card,5.0
+1341,Yash Patel,33.0,M,East,  Books  ,Cookbook,331.12,1,31/10/2024,Net Banking,5.0
+1449,Simran Reddy,150.0,female,West,Furniture,Bookshelf,$7637.32,2,"Dec 09, 2024",Net Banking,
+1210,Neha Malhotra,34.0,Female,North,Furniture,Study Table,3709.85,1,2024-02-17,net banking,4.0
+1358,Rohan Bhatt,,Male,North,Furniture,Bookshelf,19417.5,1,,,3.0
+1424,Pooja Desai,37.0,Female,South,Clothing,Jacket,1483.45,1,2024-11-09,Cash on Delivery,4.0
+1397,Pooja Desai,29.0,MALE,West,Furniture,Bed Frame,11146.65,1,"Oct 19, 2024",Net Banking,2.0
+1070,Rahul Kapoor,41.0,Female,South,Books,Cookbook,,1,"Sep 18, 2024",Debit Card,4.0
+1016,Ananya Iyer,34.0,Female,East,Clothing,Sneakers,463.78,1,"Aug 06, 2024",DEBIT CARD,4.0
+1453,Yash Kapoor,28.0,Male,South,grocery,Rice 5kg,728.91,1,"May 14, 2024",Credit Card,4.0
+1433,Priya Chauhan,16.0,Male,West,Grocery,Rice 5kg,1061.14,1,20/06/2024,Debit Card,4.0
+1380,Kabir Reddy,38.0,Male,North,  Clothing  ,Sweater,1067.47,1,"Oct 05, 2024",Cash on Delivery,4.0
+1037,Sara Patel,36.0,Female,North,Electronics,Smartwatch,26773.71,1,2024-04-11,Net Banking,4.0
+1290,Pooja Nair,39.0,M,South,  Books  ,Biography,468.92,1,"Sep 06, 2024",Credit Card,
+1235,Simran Nair,,MALE,North,Books,Fiction Novel,634.84,1,"Sep 16, 2024",Credit Card,3.0
+1178,Manav Singh,33.0,Male,South,grocery,Rice 5kg,775.1,2,11/07/2024,Net Banking,
+1059,Diya Singh,39.0,FEMALE,East,Clothing,Sweater,1411.07,1,"Jan 09, 2024",,3.0
+1108,Ishaan Gupta,42.0,Female,West,  Books  ,Cookbook,591.42,4,"Aug 14, 2024",UPI,5.0
+1368,Karan Nair,40.0,  Female  ,South,Clothing,Sweater,3040.64,2,11/07/2024,Debit Card,4.0
+1309,Rohan Kapoor,35.0,Male,NORTH,Electronics,Bluetooth Speaker,18958.08,1,"Aug 25, 2024",Debit Card,6.0
+1307,Karan Kapoor,49.0,M,WEST,FURNITURE,Bookshelf,16739.86,1,2024-03-06,UPI,
+1304,Saanvi Verma,39.0,male,South,Electronics,Smartphone,20804.58,4,2024-06-18,Net Banking,5.0
+1232,Sara Desai,28.0,Male,west,Grocery,Coffee Beans 500g,$243.77,1,"Apr 19, 2024",UPI,4.0
+1093,Kavya Verma,38.0,Male,South,electronics,Smartphone,1987.67,1,2024-06-03,UPI,4.0
+1466,Aditya Reddy,27.0,male,,  Electronics  ,Laptop,,1,28/07/2024,Net Banking,4.0
+1302,Ishaan Gupta,32.0,Female,North,Grocery,Rice 5kg,413.62,1,"Feb 17, 2024",UPI,2.0
+1274,Karan Joshi,54.0,male,South,ELECTRONICS,Wireless Earbuds,10916.0,1,28/10/2024,Credit Card,5.0
+1148,Sara Kapoor,40.0,Female,North,Clothing,Jeans,3109.13,1,,Credit Card,4.0
+1135,Diya Kapoor,51.0,Female,,Clothing,Sweater,"3,007.83",2,"Apr 15, 2024",Credit Card,4.0
+1431,Kavya Nair,18.0,F,East,Clothing,Sneakers,3230.44,,2024-03-31,Debit Card,
+1075,Ishaan Patel,43.0,Male,East,ELECTRONICS,Wireless Earbuds,16635.3,1,"Mar 08, 2024",UPI,4.0
+1405,Isha Gupta,24.0,Female,North,Clothing,Jeans,1110.72,1,16/04/2024,Debit Card,5.0
+1389,Myra Verma,37.0,Female,  South  ,Furniture,Study Table,20875.08,1,2024-01-07,Cash on Delivery,4.0
+1295,Manav Verma,34.0,Male,east,Electronics,Wireless Earbuds,8571.1,1,16/06/2024,UPI,5.0
+1218,Ananya Bhatt,42.0,Male,  East  ,Electronics,Smartwatch,"10,995.13",2,"Oct 30, 2024",UPI,
+1487,Karan Chauhan,49.0,Male,South,Furniture,Study Table,4989.91,1,2024-06-19,UPI,3.0
+1294,Ananya Sharma,22.0,O,East,Grocery,Olive Oil 1L,629.54,1,"Dec 23, 2024",Credit Card,2.0
+1030,Neha Nair,26.0,Female,South,  Grocery  ,Rice 5kg,269.7,4,22/11/2024,Credit Card,
+1130,Ananya Mehta,26.0,Other,North,clothing,Jeans,430.83,1,"Jan 10, 2024",upi,5.0
+1013,Simran Desai,46.0,Male,North,FURNITURE,Bed Frame,6633.35,1,10/10/2024,Credit Card,3.0
+1281,Myra Bhatt,-5.0,Female,West,Furniture,Office Chair,$12268.51,1,"Jun 05, 2024",Net Banking,4.0
+1409,Aarav Patel,29.0,Male,South,Clothing,T-Shirt,3272.28,1,"Mar 07, 2024",Cash on Delivery,4.0
+1107,Saanvi Desai,16.0,Male,east,Clothing,Sneakers,2589.49,3,2024-05-20,Credit Card,4.0
+1173,Simran Gupta,25.0,Female,  West  ,Electronics,Laptop,8508.42,1,2024-11-04,Credit Card,3.0
+1325,Saanvi Kapoor,36.0,Female,East,Electronics,Smartphone,1973.25,1,26/09/2024,DEBIT CARD,4.0
+1283,Aditya Gupta,25.0,Other,West,Books,Comic Book,238.88,3,2024-08-29,Credit Card,5.0
+1260,Kabir Mehta,53.0,Male,South,  Electronics  ,Wireless Earbuds,$23489.19,1,,Credit Card,2.0
+1276,Neha Desai,41.0,Female,East,Clothing,Jeans,770.52,1,2024-08-14,Credit Card,5.0
+1005,Ananya Nair,34.0,female,WEST,Furniture,Bed Frame,11843.58,1,2024-01-03,Debit Card,5.0
+1372,Kavya Mehta,19.0,Male,WEST,Furniture,Study Table,"23,322.82",,2024-05-22,cash on delivery,3.0
+1311,Simran Bhatt,58.0,M,East,Grocery,Rice 5kg,581.66,2,21/04/2024,Credit Card,5.0
+1145,Rohan Gupta,36.0,Female,West,Clothing,T-Shirt,2981.81,1,24/11/2024,Credit Card,1.0
+1427,Sara Reddy,34.0,Female,South,Clothing,T-Shirt,3354.57,1,02/01/2024,UPI,4.0
+1055,Vivaan Chauhan,31.0,Other,North,Books,Self-Help Book,787.24,1,15/10/2024,,3.0
+1196,Simran Bhatt,43.0,Female,North,Grocery,Green Tea Box,107292.06,4,2024-09-17,Credit Card,4.0
+1164,Saanvi Gupta,16.0,  Male  ,East,Electronics,Smartwatch,44174.38,1,2024-04-28,CASH ON DELIVERY,
+1221,Riya Chauhan,30.0,Male,North,Grocery,Green Tea Box,118.82,4,02/10/2024,  UPI  ,5.0
+1288,Neha Patel,19.0,Male,East,Furniture,Study Table,6309.98,1,"Nov 20, 2024",Cash on Delivery,4.0
+1244,Kavya Nair,17.0,Female,North,furniture,Office Chair,10559.53,1,2024-06-11,Credit Card,4.0
+1400,Diya Nair,38.0,Male,South,Clothing,Sweater,2947.37,1,2024-08-09,Net Banking,3.0
+1404,Diya Iyer,56.0,Male,East,Furniture,Office Chair,13266.71,1,"Dec 07, 2024",UPI,3.0
+1320,Karan Desai,41.0,Male,North,Furniture,Study Table,10277.72,1,2024-01-07,NET BANKING,5.0
+1107,Saanvi Desai,16.0,Male,east,Clothing,Sneakers,2589.49,3,2024-05-20,Credit Card,4.0
+1471,Ishaan Mehta,20.0,Female,North,  Books  ,Self-Help Book,636.56,1,"Mar 22, 2024",Debit Card,5.0
+1410,Saanvi Chauhan,16.0,Female,South,Furniture,Bed Frame,5604.21,1,2024-01-13,debit card,2.0
+1025,Aditya Chauhan,16.0,  Female  ,North,  Furniture  ,Bookshelf,19561.02,2,"Jun 30, 2024",Net Banking,4.0
+1044,Ananya Iyer,20.0,Female,East,Clothing,Sweater,2658.25,1,"Sep 10, 2024",Cash on Delivery,5.0
+1483,Ananya Patel,35.0,Female,West,grocery,Olive Oil 1L,283.49,2,28/02/2024,Credit Card,3.0
+1337,Isha Gupta,,Male,North,Books,Biography,497.34,2,"Nov 22, 2024",Cash on Delivery,4.0
+1280,Kavya Kapoor,,Male,  West  ,Books,Cookbook,416.28,1,2024-01-09,DEBIT CARD,5.0
+1339,Kabir Joshi,18.0,Female,East,Furniture,Study Table,19918.65,1,2024-09-15,Net Banking,5.0
+1083,Vivaan Joshi,40.0,Male,South,Books,Fiction Novel,304.18,1,2024-07-29,UPI,5.0
+1167,Myra Nair,40.0,female,West,CLOTHING,Sneakers,3094.55,1,2024-02-19,DEBIT CARD,
+1234,Ishaan Verma,41.0,female,West,Books,Cookbook,597.24,1,2024-02-11,Debit Card,4.0
+1385,Manav Iyer,47.0,female,South,Grocery,Coffee Beans 500g,147.49,1,"Nov 13, 2024",Cash on Delivery,5.0
+1125,Rohan Iyer,23.0,Female,East,Grocery,Olive Oil 1L,936.89,1,02/06/2024,Cash on Delivery,5.0
+1436,Ishaan Kapoor,16.0,Female,SOUTH,Electronics,Smartphone,"9,132.07",1,2024-11-26,Net Banking,4.0
+1102,Priya Joshi,40.0,Male,North,Electronics,Smartphone,25989.16,3,24/11/2024,Credit Card,3.0
+1464,Ishaan Mehta,43.0,Other,East,Clothing,Sweater,2484.17,1,2024-08-02,Cash on Delivery,3.0
+1077,Kavya Singh,35.0,Female,,Books,Cookbook,707.96,2,16/08/2024,Net Banking,2.0
+1133,Isha Mehta,32.0,Male,SOUTH,Grocery,Green Tea Box,918.45,1,07/02/2024,Debit Card,5.0
+1222,Ananya Reddy,34.0,MALE,,Furniture,Sofa Set,24126.04,2,2024-04-30,Credit Card,3.0
+1151,Rahul Joshi,16.0,  Female  ,west,CLOTHING,Sweater,$1086.67,1,2024-01-22,UPI,4.0
+1473,Aarav Singh,44.0,Female,North,Grocery,Green Tea Box,663.79,2,2024-04-07,Debit Card,5.0
+1027,Kabir Sharma,37.0,Male,East,Clothing,Jacket,2123.77,4,"Sep 30, 2024",Debit Card,5.0
+1381,Neha Sharma,42.0,Male,East,Electronics,Wireless Earbuds,7066.09,2,2024-07-09,Net Banking,5.0
+1252,Yash Chauhan,32.0,female,South,  Books  ,Self-Help Book,$507.63,1,2024-05-06,,
+1113,Saanvi Desai,18.0,Female,South,GROCERY,Olive Oil 1L,548.71,2,"Oct 11, 2024",Net Banking,3.0
+1498,Rohan Patel,16.0,Female,South,Clothing,Jeans,3427.29,1,"Oct 03, 2024",Cash on Delivery,5.0
+1306,Sara Patel,16.0,F,West,Clothing,Jacket,2204.75,1,28/05/2024,UPI,4.0
+1247,Yash Verma,55.0,Female,North,Clothing,T-Shirt,2835.86,1,2024-03-05,Cash on Delivery,
+1391,Riya Chauhan,50.0,Other,  West  ,Furniture,Office Chair,18616.72,2,04/01/2024,UPI,4.0
+1028,Ishaan Mehta,25.0,Male,South,Electronics,Laptop,32191.79,1,2024-01-14,UPI,3.0
+1397,Pooja Desai,29.0,MALE,West,Furniture,Bed Frame,11146.65,1,"Oct 19, 2024",Net Banking,2.0
+1376,Aditi Chauhan,35.0,Female,South,Clothing,Sneakers,$2648.16,1,29/12/2024,Net Banking,
+1111,Isha Patel,26.0,Female,South,Electronics,Laptop,36896.47,1,"Apr 15, 2024",Net Banking,2.0
+1490,Yash Verma,48.0,Male,west,Electronics,Wireless Earbuds,11189.59,2,2024-09-30,Credit Card,4.0
+1205,Vivaan Sharma,29.0,Female,north,Electronics,Wireless Earbuds,44142.72,1,2024-07-17,Credit Card,4.0
+1231,Arjun Malhotra,45.0,Female,East,Electronics,Wireless Earbuds,36933.83,1,2024-07-11,Credit Card,1.0
+1191,Isha Patel,,Male,East,FURNITURE,Bed Frame,1622.9,3,"Mar 11, 2024",,5.0
+1091,Riya Verma,26.0,M,North,Electronics,Bluetooth Speaker,16039.31,1,"Aug 10, 2024",Net Banking,4.0
+1206,Ishaan Nair,18.0,Male,South,Clothing,Sweater,750.21,1,05/05/2024,debit card,5.0
+1171,Arjun Malhotra,37.0,Female,,  Books  ,Biography,732.54,3,2024-06-09,Cash on Delivery,5.0
+1440,Arjun Nair,41.0,Female,south,Electronics,Wireless Earbuds,42224.76,4,2024-10-06,Credit Card,3.0
+1399,Vivaan Nair,50.0,Male,  West  ,Furniture,Bed Frame,5292.13,2,13/06/2024,CREDIT CARD,3.0
+1057,Ananya Sharma,37.0,Female,East,  Books  ,Comic Book,629.52,1,04/11/2024,UPI,2.0
+1242,Neha Reddy,150.0,female,East,Books,Biography,224.48,1,2024-09-19,debit card,4.0
+1088,Pooja Mehta,37.0,Female,East,Furniture,Study Table,21874.35,1,2024-11-24,UPI,4.0
+1098,Aarav Mehta,33.0,  Female  ,North,Electronics,Laptop,27260.68,1,18/01/2024,Credit Card,
+1117,Manav Mehta,39.0,Female,East,Grocery,Almonds 250g,917.6,2,16/02/2024,Debit Card,3.0
+1202,Simran Singh,16.0,M,East,CLOTHING,Jacket,744.72,1,2024-07-22,Debit Card,5.0
+1343,Karan Iyer,37.0,F,North,Books,Self-Help Book,442.95,2,"Feb 18, 2024",UPI,4.0
+1426,Rahul Mehta,23.0,Female,,Electronics,Laptop,1007.21,1,2024-11-16,Cash on Delivery,4.0
+1214,Simran Nair,52.0,  Male  ,South,Grocery,Rice 5kg,131.33,2,"Sep 22, 2024",net banking,5.0
+1338,Neha Reddy,19.0,MALE,North,Clothing,Sweater,2692.83,1,2024-06-12,Net Banking,5.0
+1417,Kabir Desai,50.0,M,North,Grocery,Coffee Beans 500g,684.59,1,2024-11-22,  Debit Card  ,5.0
+1360,Sara Sharma,20.0,Male,South,CLOTHING,Sweater,2144.74,1,2024-09-13,UPI,5.0
+1378,Riya Joshi,50.0,Male,East,Books,Comic Book,$224.05,1,16/07/2024,Net Banking,4.0
+1340,Myra Patel,31.0,,East,Electronics,Bluetooth Speaker,3958.33,-2,"Mar 02, 2024",net banking,5.0
+1378,Riya Joshi,50.0,Male,East,Books,Comic Book,$224.05,1,16/07/2024,Net Banking,4.0
+1226,Riya Patel,44.0,Male,South,clothing,T-Shirt,$379.48,1,16/01/2024,Cash on Delivery,
+1090,Priya Verma,40.0,  Male  ,north,Clothing,Jeans,$572.71,1,2024-07-07,UPI,4.0
+1345,Riya Nair,46.0,Female,West,Furniture,Office Chair,$13344.09,1,29/02/2024,NET BANKING,
+1342,Saanvi Reddy,28.0,FEMALE,East,Clothing,T-Shirt,2739.13,1,"Jul 27, 2024",Debit Card,4.0
+1500,Aditi Iyer,26.0,,West,Books,Cookbook,92048.38,1,23/12/2024,UPI,5.0
+1390,Manav Gupta,32.0,Male,East,Clothing,T-Shirt,1286.41,1,26/10/2024,UPI,5.0
+1484,Neha Gupta,16.0,male,East,Clothing,Sweater,,3,2024-04-07,Cash on Delivery,
+1015,Manav Verma,34.0,,East,Grocery,Rice 5kg,543.62,1,2024-03-22,,3.0
+1476,Pooja Kapoor,29.0,,South,Grocery,Olive Oil 1L,688.0,1,2024-03-11,Debit Card,4.0
+1308,Vivaan Malhotra,47.0,female,North,Electronics,Smartphone,27938.97,1,22/12/2024,UPI,5.0
+1121,Kavya Mehta,53.0,Male,South,Books,Biography,168.44,1,09/04/2024,debit card,5.0
+1286,Karan Reddy,27.0,Male,West,Electronics,Wireless Earbuds,7518.98,0,08/11/2024,Net Banking,5.0
+1043,Ishaan Malhotra,49.0,,North,Books,Comic Book,369.91,2,05/07/2024,Net Banking,5.0
+1197,Pooja Desai,57.0,Male,South,Grocery,Green Tea Box,521.6,1,2024-04-23,UPI,1.0
+1034,Saanvi Bhatt,30.0,Male,,Books,Comic Book,464.7,1,2024-08-08,Credit Card,4.0
+1286,Karan Reddy,27.0,Male,West,Electronics,Wireless Earbuds,7518.98,0,08/11/2024,Net Banking,5.0
+1452,Aditi Nair,,Female,south,BOOKS,Fiction Novel,796.25,1,30/07/2024,Net Banking,5.0
+1149,Rohan Kapoor,16.0,Male,South,Books,Cookbook,441.42,1,2024-04-20,UPI,4.0
+1352,Aditya Reddy,19.0,Male,South,Furniture,Study Table,6890.1,1,25/03/2024,Cash on Delivery,4.0
+1318,Diya Chauhan,22.0,Female,East,Furniture,Sofa Set,$19049.25,2,"May 09, 2024",UPI,5.0
+1303,Myra Mehta,28.0,Female,North,Electronics,Bluetooth Speaker,35533.71,2,"Dec 04, 2024",Cash on Delivery,3.0
+1291,Karan Bhatt,26.0,male,East,Books,Fiction Novel,879.81,1,08/02/2024,Cash on Delivery,5.0
+1017,Aarav Mehta,43.0,Other,South,Furniture,Bookshelf,10186.88,1,24/05/2024,UPI,5.0
+1159,Riya Sharma,38.0,female,East,Electronics,Bluetooth Speaker,27156.55,1,2024-06-16,Debit Card,4.0
+1244,Kavya Nair,17.0,Female,North,furniture,Office Chair,10559.53,1,2024-06-11,Credit Card,4.0
+1067,Kabir Reddy,27.0,F,south,Grocery,Almonds 250g,462.71,-1,31/08/2024,Credit Card,2.0
+1454,Riya Bhatt,25.0,Female,West,Electronics,Laptop,4861.77,1,01/09/2024,Debit Card,3.0
+1467,Rahul Verma,25.0,Female,East,Grocery,Green Tea Box,1127.19,2,26/04/2024,Credit Card,4.0
+1120,Aditya Gupta,43.0,F,South,Clothing,T-Shirt,484.4,1,"Sep 08, 2024",Net Banking,4.0
+1478,Pooja Joshi,50.0,Male,South,ELECTRONICS,Wireless Earbuds,7028.06,1,09/04/2024,Credit Card,3.0
+1066,Vivaan Joshi,30.0,F,South,Furniture,Study Table,14606.94,1,2024-06-29,Credit Card,4.0
+1496,Ishaan Sharma,43.0,Female,South,Books,Biography,614.4,1,"Nov 30, 2024",upi,2.0
+1010,Riya Bhatt,37.0,Female,North,Grocery,Rice 5kg,520.6,4,"Dec 25, 2024",Debit Card,3.0
+1019,Aditya Iyer,42.0,Male,North,Furniture,Office Chair,$17737.04,1,,Debit Card,5.0
+1154,Ishaan Bhatt,21.0,Male,West,Books,Biography,,1,08/06/2024,Debit Card,5.0
+1394,Vivaan Chauhan,58.0,Male,North,Grocery,Green Tea Box,468.52,1,28/07/2024,Net Banking,5.0
+1257,Pooja Bhatt,48.0,Male,North,Grocery,Coffee Beans 500g,$123.25,1,2024-10-02,Net Banking,3.0
+1408,Riya Verma,56.0,Male,NORTH,Electronics,Smartphone,12046.78,1,10/10/2024,Cash on Delivery,5.0
+1359,Kavya Nair,52.0,Female,West,Furniture,Bed Frame,$14487.56,1,11/05/2024,Net Banking,3.0
+1305,Isha Kapoor,21.0,M,North,Clothing,Sneakers,1652.15,1,,UPI,
+1273,Neha Chauhan,,OTHER,north,Clothing,Jeans,1848.53,1,27/11/2024,Net Banking,
+1134,Yash Bhatt,47.0,male,  South  ,Grocery,Coffee Beans 500g,188.76,1,"Nov 01, 2024",Credit Card,5.0
+1430,Pooja Joshi,16.0,Female,South,Grocery,Coffee Beans 500g,508.07,1,2024-05-12,Debit Card,4.0
+1254,Riya Verma,41.0,Female,East,  Books  ,Comic Book,766.44,2,24/01/2024,Debit Card,2.0
+1271,Neha Patel,42.0,Female,North,Electronics,Wireless Earbuds,33516.91,,,cash on delivery,4.0
+1162,Ananya Sharma,20.0,Male,  South  ,Clothing,Jacket,"2,005.00",1,"Sep 15, 2024",Debit Card,5.0
+1287,Rahul Kapoor,24.0,  Other  ,West,Grocery,Green Tea Box,934.41,2,2024-05-12,Net Banking,
+1393,Riya Mehta,16.0,female,South,Electronics,Smartwatch,6741.19,2,07/05/2024,Debit Card,4.0
+1355,Rahul Kapoor,39.0,Female,  North  ,Books,Self-Help Book,529.13,1,2024-11-09,Credit Card,4.0
+1361,Kavya Bhatt,41.0,male,South,Grocery,Almonds 250g,975.31,1,2024-01-14,CASH ON DELIVERY,3.0
+1455,Neha Verma,22.0,  Female  ,North,Furniture,Office Chair,8756.85,1,2024-05-26,Net Banking,4.0
+1002,Pooja Desai,51.0,Male,West,Books,Self-Help Book,691.50,3,"Nov 10, 2024",Net Banking,
+1225,Aditya Sharma,20.0,FEMALE,North,  Grocery  ,Olive Oil 1L,61442.47,1,20/11/2024,Net Banking,4.0
+1208,Isha Malhotra,34.0,,West,Furniture,Bed Frame,7504.09,3,07/03/2024,Debit Card,
+1118,Riya Verma,30.0,Female,  South  ,electronics,Smartphone,,1,2024-03-15,UPI,5.0
+1451,Diya Mehta,24.0,Female,North,Books,Cookbook,588.62,1,2024-01-02,Net Banking,3.0
+1375,Neha Kapoor,36.0,F,west,Furniture,Office Chair,11841.36,1,"Oct 21, 2024",Net Banking,5.0
+1384,Ishaan Chauhan,27.0,Female,West,Clothing,Sneakers,1098.52,1,"Jan 14, 2024",Credit Card,5.0
+1265,Isha Nair,31.0,Male,,Grocery,Green Tea Box,102.17,1,"Nov 06, 2024",Credit Card,5.0
+1275,Riya Malhotra,48.0,Male,  South  ,BOOKS,Comic Book,545.45,3,2024-06-08,Cash on Delivery,4.0
+1071,Saanvi Malhotra,,Female,East,Furniture,Study Table,"9,075.32",0,01/11/2024,UPI,4.0
+1129,Rohan Kapoor,,male,South,Furniture,Office Chair,13666.22,1,"Mar 31, 2024",Debit Card,5.0
+1018,Simran Iyer,27.0,Female,East,Furniture,Bookshelf,5883.18,1,2024-05-27,Cash on Delivery,1.0
+1099,Sara Joshi,25.0,Male,  East  ,books,Cookbook,598.71,1,11/04/2024,Debit Card,
+1389,Myra Verma,37.0,Female,  South  ,Furniture,Study Table,20875.08,1,2024-01-07,Cash on Delivery,4.0
+1022,Riya Gupta,36.0,Male,SOUTH,Grocery,Rice 5kg,829.52,1,"Jul 27, 2024",Debit Card,5.0
+1194,Rohan Patel,28.0,Female,East,Furniture,Bed Frame,"2,740.89",1,2024-11-01,Cash on Delivery,5.0
+1006,Aditi Bhatt,22.0,Female,South,Clothing,Sneakers,890.72,4,2024-09-27,Debit Card,5.0
+1437,Kabir Singh,28.0,Male,East,Books,Cookbook,272.53,1,2024-03-08,Net Banking,5.0
+1314,Pooja Reddy,16.0,Female,East,Grocery,Olive Oil 1L,569.67,1,"Dec 19, 2024",Credit Card,5.0
+1136,Pooja Desai,44.0,Female,South,Books,Self-Help Book,515.0,2,2024-07-05,Debit Card,5.0
+1346,Neha Sharma,30.0,M,West,Clothing,Jacket,"2,692.69",2,30/08/2024,Cash on Delivery,1.0
+1465,Ishaan Chauhan,37.0,female,North,Books,Fiction Novel,598.38,1,"Aug 18, 2024",,5.0
+1401,Simran Iyer,45.0,male,West,FURNITURE,Bed Frame,8829.93,2,"Jan 06, 2024",  Cash on Delivery  ,2.0
+1328,Aditya Joshi,39.0,Male,East,Grocery,Green Tea Box,466.32,2,"Sep 28, 2024",UPI,5.0
+1199,Diya Nair,21.0,Female,South,Electronics,Bluetooth Speaker,21159.68,1,2024-11-09,UPI,4.0
+1442,Simran Nair,20.0,Male,South,  Furniture  ,Office Chair,2022.13,4,"Jan 26, 2024",NET BANKING,3.0
+1204,Pooja Iyer,50.0,  Male  ,South,Electronics,Bluetooth Speaker,27774.81,1,"Nov 23, 2024",net banking,3.0
+1068,Vivaan Bhatt,19.0,M,  South  ,Furniture,Study Table,15035.96,3,"Mar 03, 2024",  Credit Card  ,4.0
+1224,Sara Patel,31.0,Male,east,Electronics,Bluetooth Speaker,27101.34,2,2024-06-07,Net Banking,
+1128,Kabir Verma,26.0,Other,West,Grocery,Coffee Beans 500g,214.53,1,21/07/2024,Cash on Delivery,5.0
+1144,Ananya Reddy,40.0,Female,South,Books,Biography,678.51,1,2024-09-21,Net Banking,2.0
+1327,Aditi Mehta,42.0,female,West,books,Comic Book,,2,"Mar 27, 2024",Credit Card,4.0
+1428,Riya Desai,20.0,Female,West,furniture,Study Table,2395.03,1,"Jun 27, 2024",Credit Card,1.0
+1140,Pooja Gupta,20.0,male,North,Grocery,Olive Oil 1L,593.1,1,2024-01-02,Cash on Delivery,4.0
+1219,Priya Patel,52.0,Male,North,Books,Cookbook,722.37,3,2024-07-26,UPI,
+1403,Vivaan Verma,45.0,  Male  ,North,Grocery,Olive Oil 1L,,2,2024-05-18,Debit Card,4.0
+1331,Manav Mehta,17.0,M,West,grocery,Coffee Beans 500g,877.00,1,"Mar 03, 2024",UPI,4.0
+1158,Arjun Kapoor,28.0,female,South,Electronics,Laptop,39247.29,1,2024-06-09,Net Banking,4.0
+1095,Rohan Verma,38.0,Female,East,Furniture,Sofa Set,1758.4,1,09/07/2024,Debit Card,5.0
+1256,Vivaan Iyer,33.0,Male,South,Electronics,Smartphone,35958.48,2,21/04/2024,Debit Card,4.0
+1103,Vivaan Patel,34.0,F,South,Books,Self-Help Book,708.8,1,28/10/2024,UPI,4.0
+1132,Karan Kapoor,41.0,female,West,Grocery,Rice 5kg,279.56,1,28/10/2024,Cash on Delivery,3.0
+1227,Kavya Patel,54.0,Female,West,Clothing,Sneakers,1718.26,1,2024-03-17,Cash on Delivery,2.0
+1040,Isha Iyer,45.0,Female,  North  ,Electronics,Smartwatch,8806.52,2,"Apr 06, 2024",UPI,4.0
+1395,Arjun Bhatt,30.0,Female,EAST,ELECTRONICS,Smartphone,41784.25,1,30/12/2024,Debit Card,5.0
+1437,Kabir Singh,28.0,Male,East,Books,Cookbook,272.53,1,2024-03-08,Net Banking,5.0
+1190,Kavya Mehta,37.0,F,south,GROCERY,Olive Oil 1L,822.97,1,"Apr 22, 2024",UPI,3.0
+1474,Ananya Malhotra,28.0,Female,North,Furniture,Bed Frame,7191.1,1,16/08/2024,Cash on Delivery,3.0
+1461,Aditi Gupta,32.0,Female,South,Grocery,Rice 5kg,$823.15,2,2024-08-08,UPI,-1.0
+1249,Aarav Malhotra,35.0,Female,South,Clothing,Sneakers,3402.71,1,16/03/2024,Debit Card,4.0
+1039,Yash Desai,27.0,Female,  North  ,Electronics,Smartphone,15034.25,1,05/08/2024,UPI,
+1243,Kavya Joshi,18.0,Male,South,Clothing,Sweater,2973.37,1,"Oct 12, 2024",CASH ON DELIVERY,4.0
+1373,Aditya Kapoor,59.0,Female,South,clothing,Jacket,1088.55,2,06/01/2024,UPI,
+1354,Rohan Malhotra,47.0,Male,West,Books,Biography,$307.88,2,12/01/2024,Debit Card,5.0
+1435,Rahul Sharma,16.0,MALE,East,CLOTHING,Sneakers,3293.15,1,28/06/2024,Cash on Delivery,4.0
+1139,Arjun Kapoor,44.0,Female,West,Grocery,Rice 5kg,1166.32,1,"Oct 30, 2024",  Cash on Delivery  ,5.0
+1023,Rohan Malhotra,48.0,Female,North,Electronics,Smartwatch,11438.2,1,2024-01-23,Credit Card,4.0
+1160,Saanvi Sharma,34.0,,West,Grocery,Green Tea Box,1000.4,1,,,2.0
+1371,Aarav Bhatt,21.0,Male,North,  Clothing  ,T-Shirt,2559.69,1,,Debit Card,4.0
+1026,Myra Bhatt,32.0,Female,West,Electronics,Smartwatch,"13,955.05",1,2024-10-08,UPI,
+1184,Neha Sharma,31.0,female,North,Books,Biography,$369.62,4,"Jan 11, 2024",,3.0
+1241,Aditya Joshi,53.0,Male,South,Books,Self-Help Book,781.29,1,10/12/2024,Net Banking,3.0
+1014,Isha Bhatt,32.0,Male,North,Electronics,Laptop,101300.3,1,21/06/2024,Credit Card,0.0
+1146,Vivaan Verma,39.0,Male,North,Electronics,Wireless Earbuds,10488.92,1,"Aug 08, 2024",CREDIT CARD,2.0
+1434,Isha Nair,45.0,Female,West,Books,Self-Help Book,481.93,1,"Apr 08, 2024",upi,4.0
+1406,Manav Nair,16.0,Female,North,Furniture,Bookshelf,4459.95,4,2024-10-10,UPI,4.0
+1315,Saanvi Bhatt,60.0,Female,South,Electronics,Smartphone,"35,644.82",1,2024-04-17,cash on delivery,4.0
+1362,Isha Kapoor,23.0,M,West,Clothing,Jeans,470.3,1,"Sep 30, 2024",CREDIT CARD,4.0
+1079,Kavya Singh,22.0,Female,West,Furniture,Study Table,7417.28,3,06/08/2024,Debit Card,5.0
+1321,Rahul Desai,46.0,Female,North,Grocery,Rice 5kg,1044.56,2,2024-06-14,Credit Card,3.0
+1443,Aditya Iyer,18.0,M,South,Clothing,Jeans,2467.82,3,2024-05-27,Credit Card,4.0
+1233,Diya Verma,44.0,  Female  ,South,ELECTRONICS,Bluetooth Speaker,$32610.6,1,10/06/2024,Debit Card,5.0
+1414,Rohan Bhatt,55.0,  Female  ,north,Furniture,Office Chair,$21040.68,3,14/04/2024,UPI,4.0
+1053,Riya Patel,38.0,Other,East,Electronics,Smartphone,44440.14,1,2024-04-08,Credit Card,5.0
+1485,Aditya Iyer,39.0,Other,East,Books,Cookbook,860.83,1,"Mar 20, 2024",Net Banking,4.0
+1035,Vivaan Gupta,28.0,F,  South  ,Electronics,Smartwatch,8713.71,1,2024-04-10,  Debit Card  ,5.0
+1335,Sara Patel,30.0,Female,,Grocery,Rice 5kg,364.89,3,"Jun 27, 2024",Credit Card,4.0
+1176,Diya Sharma,32.0,Female,North,Books,Fiction Novel,392.63,2,2024-06-09,debit card,2.0
+1377,Rahul Joshi,38.0,Female,South,  Furniture  ,Bookshelf,23391.54,1,2024-07-19,Debit Card,4.0
+1185,Karan Malhotra,16.0,Other,South,  Clothing  ,T-Shirt,1490.31,1,"Oct 15, 2024",Cash on Delivery,2.0
+1312,Aarav Joshi,41.0,F,East,Electronics,Wireless Earbuds,1694.8,1,"Nov 14, 2024",Net Banking,
+1326,Aditya Bhatt,38.0,Male,north,Electronics,Laptop,9989.13,1,08/09/2024,Credit Card,5.0
+1188,Isha Patel,25.0,Female,North,Grocery,Olive Oil 1L,334.08,1,19/12/2024,UPI,5.0
+1285,Saanvi Kapoor,26.0,Male,SOUTH,Grocery,Olive Oil 1L,821.95,3,15/04/2024,UPI,3.0
+1392,Neha Gupta,20.0,Male,South,Furniture,Office Chair,11628.12,1,"Mar 10, 2024",UPI,5.0
+1388,Yash Desai,,Male,South,Furniture,Bookshelf,"10,420.99",,"Jul 16, 2024",,4.0
+1489,Kabir Malhotra,,Female,East,Electronics,Smartwatch,2114.36,1,"Dec 10, 2024",net banking,4.0
+1166,Aditya Gupta,39.0,Male,North,Books,Biography,377.35,1,27/11/2024,Debit Card,5.0
+1441,Kabir Gupta,,Male,west,Books,Cookbook,185.23,1,"May 17, 2024",UPI,5.0
+1299,Simran Bhatt,,  Female  ,West,Electronics,Bluetooth Speaker,32611.69,2,2024-03-30,UPI,5.0
+1024,Aditi Patel,25.0,Female,South,Books,Cookbook,819.03,1,2024-11-13,CREDIT CARD,4.0
+1497,Aditi Gupta,24.0,Female,North,Clothing,T-Shirt,1843.81,2,29/05/2024,Debit Card,5.0
+1348,Kabir Joshi,50.0,FEMALE,South,Books,Comic Book,588.37,2,2024-12-30,Debit Card,5.0
+1448,Ishaan Verma,20.0,Male,  West  ,BOOKS,Fiction Novel,299.11,1,"Jun 19, 2024",UPI,5.0
+1183,Priya Kapoor,31.0,Female,North,Electronics,Wireless Earbuds,17804.73,1,"Jul 09, 2024",Credit Card,4.0
+1344,Manav Kapoor,27.0,Male,east,GROCERY,Olive Oil 1L,475.44,1,,Net Banking,5.0
+1042,Karan Kapoor,44.0,Female,North,Grocery,Rice 5kg,$157.89,3,"Feb 22, 2024",Cash on Delivery,5.0
+1357,Aditya Verma,16.0,Female,South,Books,Fiction Novel,723.87,1,06/09/2024,UPI,5.0
+1237,Kavya Iyer,32.0,Male,North,Electronics,Bluetooth Speaker,"18,571.62",2,09/04/2024,UPI,
+1014,Isha Bhatt,32.0,Male,North,Electronics,Laptop,101300.3,1,21/06/2024,Credit Card,0.0
+1351,Priya Iyer,16.0,,North,Books,Biography,410.63,1,2024-04-08,UPI,4.0
+1076,Aarav Desai,999.0,Female,East,Clothing,Sneakers,2840.67,1,2024-02-08,UPI,5.0
+1032,Saanvi Kapoor,44.0,M,WEST,Furniture,Sofa Set,24284.12,2,"Dec 12, 2024",UPI,4.0
+1350,Rahul Mehta,25.0,Male,East,grocery,Almonds 250g,979.88,2,2024-08-27,Cash on Delivery,3.0
+1046,Aditya Desai,35.0,Female,  East  ,Furniture,Bed Frame,3462.27,2,09/02/2024,Debit Card,5.0
+1463,Rohan Patel,21.0,Male,West,Books,Fiction Novel,$190.33,1,"Jul 08, 2024",UPI,3.0
+1495,Pooja Kapoor,51.0,female,South,Furniture,Bed Frame,23613.32,2,"Sep 23, 2024",Credit Card,2.0
+1109,Aditya Singh,29.0,Male,East,Furniture,Bookshelf,10937.14,2,"Aug 29, 2024",Debit Card,4.0
+1106,Aditya Desai,35.0,Male,EAST,  Electronics  ,Smartwatch,44299.66,,26/06/2024,Cash on Delivery,5.0
+1150,Sara Reddy,31.0,Female,South,Clothing,T-Shirt,1514.69,2,"Jun 03, 2024",Cash on Delivery,1.0
+1030,Neha Nair,26.0,Female,South,  Grocery  ,Rice 5kg,269.7,4,22/11/2024,Credit Card,
+1182,Manav Bhatt,41.0,Male,South,Grocery,Coffee Beans 500g,302.9,1,08/08/2024,Debit Card,
+1110,Priya Malhotra,42.0,Female,West,Books,Comic Book,$622.33,1,"Jun 27, 2024",  Debit Card  ,4.0
+1420,Aditi Iyer,,Male,North,  Furniture  ,Study Table,13803.74,1,,Cash on Delivery,5.0
+1123,Vivaan Desai,57.0,Male,East,Furniture,Sofa Set,23674.97,1,"Jan 16, 2024",UPI,4.0
+1499,Simran Joshi,16.0,Female,North,Furniture,Study Table,$21605.45,3,"Jan 13, 2024",Cash on Delivery,2.0
+1105,Yash Chauhan,43.0,Other,West,Clothing,Sneakers,1044.7,2,"Nov 14, 2024",Net Banking,5.0
+1061,Neha Mehta,,Female,North,Furniture,Study Table,5659.75,1,06/09/2024,UPI,1.0
+1147,Ananya Patel,38.0,F,West,Electronics,Wireless Earbuds,18903.36,,2024-05-12,Debit Card,4.0
+1084,Aarav Sharma,,  Male  ,North,Electronics,Laptop,2444.29,3,10/12/2024,Cash on Delivery,4.0
+1316,Ishaan Desai,,Male,North,Furniture,Study Table,,1,13/09/2024,Net Banking,4.0
+1382,Kabir Desai,38.0,Male,NORTH,Electronics,Smartphone,7864.73,2,2024-08-27,UPI,3.0
+1423,Arjun Sharma,55.0,Other,North,Furniture,Bookshelf,23627.06,3,17/09/2024,Credit Card,5.0
+1459,Saanvi Patel,18.0,Male,SOUTH,Clothing,T-Shirt,2633.52,1,11/07/2024,UPI,4.0
+1228,Sara Nair,50.0,Other,West,Furniture,Study Table,"7,881.87",1,"Mar 02, 2024",Credit Card,
+1469,Ananya Malhotra,34.0,  Male  ,South,Books,Biography,$558.19,1,11/07/2024,Debit Card,4.0
+1446,Kabir Chauhan,23.0,  Male  ,West,Grocery,Almonds 250g,780.09,1,"Feb 16, 2024",UPI,4.0
+1152,Vivaan Malhotra,28.0,Male,West,Books,Biography,866.0,1,"Oct 02, 2024",Net Banking,4.0
+1001,Aditya Nair,40.0,Male,,Furniture,Sofa Set,5810.72,1,2024-06-01,net banking,4.0
+1268,Aditya Mehta,23.0,Female,South,  Furniture  ,Sofa Set,17669.04,1,2024-05-18,,2.0
+1470,Pooja Patel,37.0,,  North  ,grocery,Olive Oil 1L,179.77,1,2024-09-02,Cash on Delivery,4.0
+1458,Manav Desai,35.0,FEMALE,North,Books,Comic Book,377.54,2,02/07/2024,,4.0
+1089,Pooja Reddy,55.0,Other,West,books,Cookbook,815.6,2,"Jun 14, 2024",UPI,5.0
+1078,Karan Gupta,29.0,Male,  North  ,Furniture,Sofa Set,$14186.72,1,"Apr 25, 2024",Debit Card,1.0
+1269,Aditi Bhatt,45.0,Male,South,Grocery,Rice 5kg,1096.58,2,05/06/2024,Credit Card,4.0
+1418,Ishaan Gupta,39.0,FEMALE,West,Grocery,Rice 5kg,795.27,1,"Mar 14, 2024",Cash on Delivery,5.0
+1124,Yash Singh,22.0,Female,West,GROCERY,Rice 5kg,816.49,0,25/05/2024,UPI,5.0
+1298,Karan Reddy,16.0,FEMALE,South,Clothing,Sweater,611.14,1,17/06/2024,Credit Card,4.0
+1370,Kavya Gupta,34.0,Female,South,Furniture,Study Table,16060.97,,2024-06-13,Debit Card,5.0
+1096,Diya Sharma,46.0,Female,North,Furniture,Bookshelf,5832.72,1,12/01/2024,Net Banking,5.0
+1346,Neha Sharma,30.0,M,West,Clothing,Jacket,"2,692.69",2,30/08/2024,Cash on Delivery,1.0
+1012,Yash Nair,33.0,FEMALE,West,  Books  ,Biography,857.14,1,2024-03-03,Debit Card,4.0
+1115,Yash Kapoor,48.0,Male,West,Books,Comic Book,700.43,1,15/02/2024,Credit Card,4.0
+1332,Aditi Desai,,Male,  West  ,Furniture,Bed Frame,3741.23,1,2024-12-23,Credit Card,4.0
+1429,Aditya Bhatt,38.0,Female,,GROCERY,Almonds 250g,$378.94,1,"Jan 17, 2024",Debit Card,3.0
+1258,Isha Bhatt,38.0,Male,west,Electronics,Smartphone,26777.64,1,2024-02-23,Debit Card,3.0
+1220,Aditya Patel,28.0,Male,South,Electronics,Laptop,1007.29,1,09/07/2024,Cash on Delivery,4.0
+1438,Rohan Desai,28.0,Male,West,Clothing,Sneakers,,1,2024-01-10,Net Banking,5.0
+1253,Neha Reddy,46.0,MALE,North,Clothing,T-Shirt,116542.29,1,"Jan 02, 2024",Cash on Delivery,5.0
+1353,Diya Desai,27.0,Male,West,Electronics,Smartwatch,,1,19/02/2024,debit card,3.0
+1238,Neha Mehta,,Male,West,Electronics,Bluetooth Speaker,38916.53,1,,UPI,4.0
+1262,Aarav Chauhan,31.0,Female,East,Grocery,Almonds 250g,564.05,1,06/08/2024,,2.0
+1444,Rahul Singh,66.0,Male,North,Books,Self-Help Book,805.73,2,02/08/2024,Credit Card,4.0
+1179,Vivaan Singh,16.0,Male,West,Electronics,Wireless Earbuds,31277.62,2,"Sep 04, 2024",Net Banking,5.0
+1411,Kavya Gupta,43.0,male,south,Furniture,Sofa Set,2080.08,2,06/02/2024,,4.0
+1279,Sara Patel,35.0,Male,  East  ,Electronics,Smartwatch,42862.86,1,"Sep 17, 2024",Debit Card,5.0
+1020,Rahul Mehta,33.0,Male,North,Furniture,Study Table,24580.96,1,"Jun 09, 2024",Cash on Delivery,4.0
+1356,Neha Bhatt,22.0,Female,East,BOOKS,Self-Help Book,493.82,2,"Apr 16, 2024",Cash on Delivery,5.0
+1170,Neha Gupta,50.0,Female,NORTH,Electronics,Bluetooth Speaker,14970.7,3,2024-01-26,NET BANKING,2.0
+1240,Manav Nair,,Female,East,Furniture,Bookshelf,2098.02,1,01/11/2024,UPI,
+1278,Sara Nair,37.0,O,North,Furniture,Sofa Set,2674.51,2,2024-06-05,Debit Card,5.0
+1161,Yash Singh,17.0,Male,West,Furniture,Bookshelf,10927.92,1,"Jan 28, 2024",Debit Card,5.0
+1074,Rahul Bhatt,42.0,Male,South,Books,Self-Help Book,444.33,2,19/12/2024,UPI,4.0
+1018,Simran Iyer,27.0,Female,East,Furniture,Bookshelf,5883.18,1,2024-05-27,Cash on Delivery,1.0
+1063,Arjun Bhatt,54.0,male,East,Clothing,Sneakers,1479.89,1,"Aug 26, 2024",UPI,5.0
+1250,Neha Gupta,42.0,F,North,Grocery,Coffee Beans 500g,1110.53,1,24/06/2024,UPI,4.0
+1493,Vivaan Sharma,34.0,M,North,Furniture,Sofa Set,22006.71,1,11/05/2024,Debit Card,5.0
+1229,Ananya Sharma,32.0,Female,  North  ,  Clothing  ,Jacket,747.22,1,"May 21, 2024",Cash on Delivery,3.0
+1239,Aarav Sharma,34.0,Female,West,Grocery,Olive Oil 1L,506.43,1,26/02/2024,Net Banking,
+1230,Arjun Nair,16.0,Male,north,electronics,Laptop,38132.53,1,2024-04-16,Credit Card,
+1319,Rahul Reddy,16.0,  Female  ,,Furniture,Bookshelf,"13,602.63",1,"Feb 02, 2024",Net Banking,4.0
+1284,Simran Reddy,16.0,  Male  ,South,Furniture,Sofa Set,2266.52,1,"Apr 26, 2024",credit card,5.0
+1048,Diya Patel,25.0,M,North,Books,Self-Help Book,159.12,4,"Aug 17, 2024",Net Banking,
+1251,Neha Malhotra,48.0,,South,Books,Cookbook,300.36,2,"Jan 14, 2024",UPI,4.0
+1080,Isha Reddy,28.0,Female,west,Clothing,T-Shirt,1118.51,2,13/05/2024,Cash on Delivery,5.0
+1296,Manav Chauhan,40.0,M,West,Grocery,Rice 5kg,,1,2024-03-04,Net Banking,5.0
+1057,Ananya Sharma,37.0,Female,East,  Books  ,Comic Book,629.52,1,04/11/2024,UPI,2.0
+1021,Simran Malhotra,36.0,Female,West,Electronics,Laptop,,1,"Apr 14, 2024",UPI,5.0
+1457,Rahul Iyer,,Female,West,  Books  ,Cookbook,315.49,1,01/03/2024,Debit Card,
+1425,Rohan Singh,40.0,Male,South,Grocery,Rice 5kg,656.03,4,20/03/2024,Cash on Delivery,4.0
+1141,Simran Verma,41.0,Female,WEST,Furniture,Office Chair,15730.15,2,18/04/2024,Cash on Delivery,5.0
+1193,Saanvi Kapoor,48.0,Female,West,Books,Self-Help Book,614.69,1,2024-08-04,Net Banking,4.0
+1131,Pooja Kapoor,36.0,Female,East,Electronics,Smartphone,42148.82,2,10/11/2024,UPI,5.0
+1216,Aditi Nair,47.0,Female,South,Electronics,Bluetooth Speaker,$19484.64,3,"Oct 06, 2024",  Debit Card  ,4.0
+1245,Ishaan Gupta,47.0,  Male  ,North,Books,Cookbook,778.91,2,2024-05-19,Cash on Delivery,3.0
+1364,Kavya Joshi,26.0,Female,South,Clothing,Jeans,1940.86,2,2024-12-04,Net Banking,5.0
+1060,Saanvi Verma,18.0,  Female  ,South,Furniture,Office Chair,22574.53,1,04/10/2024,Net Banking,3.0
+1222,Ananya Reddy,34.0,MALE,,Furniture,Sofa Set,24126.04,2,2024-04-30,Credit Card,3.0
+1177,Priya Singh,49.0,Female,West,Grocery,Rice 5kg,702.30,1,2024-09-09,Debit Card,
+1450,Ananya Nair,56.0,Male,  South  ,Books,Biography,599.47,1,2024-09-06,Credit Card,4.0
+1056,Manav Bhatt,16.0,Female,  West  ,Clothing,Jeans,1964.5,,"Aug 10, 2024",credit card,4.0
+1255,Vivaan Singh,36.0,male,  North  ,Furniture,Bookshelf,9697.28,3,17/01/2024,,4.0
+1386,Diya Singh,51.0,,South,Grocery,Olive Oil 1L,215.57,1,2024-08-27,Net Banking,2.0
+1198,Saanvi Gupta,53.0,Male,,Electronics,Laptop,14143.22,3,15/12/2024,  Debit Card  ,5.0
+1069,Aarav Kapoor,27.0,Male,North,Grocery,Olive Oil 1L,407.26,1,"Feb 17, 2024",Cash on Delivery,3.0
+1169,Aarav Gupta,22.0,F,North,Books,Cookbook,280.14,4,06/11/2024,Debit Card,3.0
+1186,Yash Desai,16.0,Female,North,Electronics,Bluetooth Speaker,13579.18,2,"Jan 19, 2024",Cash on Delivery,5.0
+1036,Rahul Verma,48.0,Female,North,Clothing,Jeans,3286.93,1,2024-12-02,Cash on Delivery,4.0

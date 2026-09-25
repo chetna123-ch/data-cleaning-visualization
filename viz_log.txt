@@ -1,0 +1,62 @@
+All 7 charts saved inside the 'charts' folder.
+
+Revenue by category:
+ ProductCategory
+Electronics    2814842.46
+Furniture      1888449.13
+Clothing        212599.03
+Grocery          90948.37
+Books            80160.19
+Name: Revenue, dtype: float64
+
+Monthly revenue:
+ OrderMonth
+2024-01    633689.12
+2024-02    196617.40
+2024-03    291681.88
+2024-04    650998.92
+2024-05    290488.64
+2024-06    667861.55
+2024-07    362184.35
+2024-08    279734.49
+2024-09    440135.17
+2024-10    441360.86
+2024-11    326013.39
+2024-12    506233.41
+Name: Revenue, dtype: float64
+
+Orders by region:
+ Region
+South    155
+North    119
+West     115
+East      96
+Name: count, dtype: int64
+
+Correlation matrix:
+            Age  Price  Quantity  Rating  Revenue
+Age       1.00   0.01      0.04    0.01     0.04
+Price     0.01   1.00     -0.04   -0.06     0.84
+Quantity  0.04  -0.04      1.00    0.03     0.26
+Rating    0.01  -0.06      0.03    1.00    -0.05
+Revenue   0.04   0.84      0.26   -0.05     1.00
+
+Age stats:
+ count    485.000000
+mean      33.967010
+std       11.090115
+min       16.000000
+25%       26.000000
+50%       34.000000
+75%       42.000000
+max       66.000000
+Name: Age, dtype: float64
+
+Top category by avg rating:
+ ProductCategory
+Clothing       4.074074
+Books          4.018692
+Grocery        3.918367
+Electronics    3.894737
+Furniture      3.894231
+Name: Rating, dtype: float64
